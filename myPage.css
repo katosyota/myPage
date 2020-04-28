@@ -1,0 +1,16 @@
+div
+{
+
+    background-image: url("png/pc.png");
+    background-repeat: no-repeat;
+    height: 1064px;
+    width: 100%;
+    background-size: contain;
+}
+
+body{
+
+     max-height: 4500px;
+    height: 4600px;
+    margin: 0px;
+}
